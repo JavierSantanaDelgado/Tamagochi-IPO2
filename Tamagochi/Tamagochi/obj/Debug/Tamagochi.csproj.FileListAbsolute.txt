@@ -1,0 +1,17 @@
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe.config
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\bin\Debug\Tamagochi.pdb
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csprojAssemblyReference.cache
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\MainWindow.g.cs
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\App.g.cs
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi_MarkupCompile.cache
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi_MarkupCompile.lref
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\MainWindow.baml
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.g.resources
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.Properties.Resources.resources
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.GenerateResource.cache
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.exe
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\Tamagochi.pdb
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\VentanaBienvenida.g.cs
+C:\Users\jsand\source\repos\Tamagochi\Tamagochi\obj\Debug\VentanaBienvenida.baml
